@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-01-06T15:17:47 EST" name="Command line suite" finished-at="2020-01-06T15:18:12 EST" duration-ms="25599">
+    <groups>
+    </groups>
+    <test started-at="2020-01-06T15:17:47 EST" name="Command line test" finished-at="2020-01-06T15:18:12 EST" duration-ms="25599">
+      <class name="tests.SearchFlightTest">
+        <test-method signature="checkDestination()[pri:0, instance:tests.SearchFlightTest@1804f60d]" started-at="2020-01-06T15:17:47 EST" name="checkDestination" finished-at="2020-01-06T15:18:12 EST" duration-ms="25329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkDestination -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.SearchFlightTest@1804f60d]" started-at="2020-01-06T15:18:12 EST" name="closeBrowser" finished-at="2020-01-06T15:18:12 EST" duration-ms="248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.SearchFlightTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
